@@ -1,6 +1,2 @@
 streamlit
 nltk
-requests
-hashlib
-datetime
-pip
